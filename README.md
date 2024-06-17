@@ -1,0 +1,2 @@
+# Celebrity & Style Recognition in Stylized Caricatures
+ This repository contains the project files for the course project of COMP 4437 Artificial Neural Networks, Spring 2024. The project aims to build a deep neural network that recognizes the celebrity and the style of caricature images. The dataset includes caricatures of 20 subjects in 6 styles, and the project involves designing and training a multi-label classification network.
