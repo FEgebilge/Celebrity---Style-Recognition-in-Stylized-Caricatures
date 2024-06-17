@@ -57,7 +57,7 @@ The performance of the model is evaluated based on:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/FEgebilge/celebrity-style-recognition.git
+   git clone https://github.com/FEgebilge/Celebrity---Style-Recognition-in-Stylized-Caricatures.git
    cd celebrity-style-recognition
    ```
 
